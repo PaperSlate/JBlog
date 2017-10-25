@@ -1,22 +1,17 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, JBlog]
-date: 2016-03-21
+title: About Me
+tags: [about, mohammed, husain]
+date: 2017-10-23
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![Design Image](https://i.imgur.com/LxB4sa5.jpg)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>Game Design</b> is my passion in life!</center>
 
 ## About
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+I'm a student at Georgia Tech studying Computer Science concentrating in the creation of Media and Human-Computer Interaction.
 
-
-If you like this theme or using it, please give a **star** for motivation.
-
-You want to **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+Video games were an integral part of my childhood. Throughout my life I have always been infatuated with what makes a game addicting and fun to play. Now, I want to use my experience and education to go into a position working on User Experience. I have participated in HackGT and UGAHacks and have worked on the User Experience for both projects, designing specifically for the user.
