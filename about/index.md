@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: About Me
 tags: [about, mohammed, husain]
 date: 2017-10-23
