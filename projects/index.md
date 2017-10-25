@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Restaurant App
-tags: [about, mohammed, husain]
-date: 2017-10-24
+tags: [restaurant, android, app, mohammed, husain]
+date: 2017-10-25
 ---
 
-<center><b>Game Design</b> is my passion in life!</center>
+<center><b>User Experience</b> is what I focused on!</center>
 
 ## UGAHacks Restaurant Management App
 
