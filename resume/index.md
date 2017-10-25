@@ -1,8 +1,8 @@
 ---
-title: "Resume"
+layout: page
+title: Resume
 description: Mohammed Husain's Resume
 date: 2017-10-25
-layout: pdf
 categories: resume
 ---
 
