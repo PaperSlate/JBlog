@@ -1,11 +1,16 @@
 ---
-layout: about
+layout: page
 title: Restaurant App
 tags: [about, mohammed, husain]
 date: 2017-10-24
 ---
 
-## UGAHacks Restaurant App
+![Design Image](https://i.imgur.com/bgger4y.jpg)
+{: .image-pull-right}
+
+<center><b>Game Design</b> is my passion in life!</center>
+
+## UGAHacks Restaurant Management App
 
 I'm a student at Georgia Tech studying Computer Science concentrating in the creation of Media and Human-Computer Interaction.
 
