@@ -5,7 +5,7 @@ tags: [about, mohammed, husain]
 date: 2017-10-23
 ---
 
-![Design Image](https://i.imgur.com/LxB4sa5.jpg)
+![Design Image](https://i.imgur.com/bgger4y.jpg)
 {: .image-pull-right}
 
 <center><b>Game Design</b> is my passion in life!</center>
