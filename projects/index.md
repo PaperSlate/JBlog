@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: about
 title: Restaurant App
 tags: [about, mohammed, husain]
 date: 2017-10-24
