@@ -1,14 +1,9 @@
 ---
-layout: page
+layout: project
 title: Restaurant App
 tags: [about, mohammed, husain]
 date: 2017-10-24
 ---
-
-![Design Image](https://i.imgur.com/bgger4y.jpg)
-{: .image-pull-right}
-
-<center><b>Game Design</b> is my passion in life!</center>
 
 ## UGAHacks Restaurant App
 
