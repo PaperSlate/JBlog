@@ -5,7 +5,7 @@ tags: [restaurant, android, app, mohammed, husain]
 date: 2017-10-25
 ---
 
-<center><b>User Experience</b> is what I focus on in development!</center>
+# <center><i>User Experience</i> is what I focus on in development!</center>
 
 ## <a href="https://github.com/ajm11135/Restaurant">UGAHacks Restaurant Management App</a>
 
