@@ -15,8 +15,8 @@ The whole known big-little tree (300+ people) for Georgia Tech's chapter of Alph
 
 ## <a>Beatmaster</a>
 
-![Design Image](https://raw.githubusercontent.com/PaperSlate/PaperSlate.github.io/master/assets/img/projects/Beatmaster.jpg)
-{: .image-pull-right}
+<!-- ![Design Image](https://raw.githubusercontent.com/PaperSlate/PaperSlate.github.io/master/assets/img/projects/Beatmaster.jpg)
+{: .image-pull-right} -->
 
 Rhythm based super-casual game (ie. Timberman/Flappy Bird/etc.) Beats appear on a never-ending track that increases in speed over time.
 
