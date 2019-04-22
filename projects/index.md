@@ -11,7 +11,7 @@ date: 2019-4-22
 ![Design Image](https://raw.githubusercontent.com/PaperSlate/PaperSlate.github.io/master/assets/img/projects/FamilyTree.jpg)
 {: .image-pull-right}
 
-The whole known big-little tree for Georgia Tech's chapter of Alpha Kappa Psi, GT's premier co-ed business fraternity. Created using D3.js with Observable + Blockbuilder.s
+The whole known big-little tree for Georgia Tech's chapter of Alpha Kappa Psi, GT's premier co-ed business fraternity. Created using D3.js with Observable + Blockbuilder.
 
 ## <a>Beatmaster</a>
 
